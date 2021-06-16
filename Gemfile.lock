@@ -6,6 +6,7 @@ GIT
       activerecord (>= 3.2, < 6.0)
       rake (>= 10.4, < 13.0)
 
+
 GEM
   remote: https://gems.ruby-china.com/
   specs:
